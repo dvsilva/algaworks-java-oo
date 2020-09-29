@@ -8,3 +8,25 @@ historia do Java
 - 1995 anuncia java em uma conferência
 - 2009 Sun é comprada pela Oracle
 - atualmente está em 4,5 milhões de dispositivos
+
+plataformas Java
+- JSE (standart edition) 
+	- Java Plataform Standard Edition
+	- JDK (Java Development Kit)
+- JEE (plataforma Java EE)
+	- Java Plataform Enterprise Edition
+	- Servlets e JSP (Java Server Pages)
+	- JSF (Java Server Faces)
+	- JPA (Java Persistence API)
+	- EJB (Enterprise Java Beans)
+- JME (java ME)
+	- Java Plataform Micro Edition
+- Java Card (cartões e chips), JavaFX (web e desktop) e Java TV (middleware para ser set-top box - ginga)
+
+como o Java evolui 
+- comunidade mundial
+- JCP [Java Community Process]
+- JSR [Java Specification Request] -> como vai funcionar a biblioteca
+
+
+
