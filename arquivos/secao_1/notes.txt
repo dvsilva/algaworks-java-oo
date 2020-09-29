@@ -38,6 +38,5 @@ JVM faz o java ficar lento
 - não, melhora o código Just In Time (JIT)
 - otimiza a execução
 
-
-
-
+baixando instalando e configurando o Java [JDK]
+- JRE só para executar
