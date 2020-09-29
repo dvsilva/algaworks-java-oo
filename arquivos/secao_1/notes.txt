@@ -28,5 +28,16 @@ como o Java evolui
 - JCP [Java Community Process]
 - JSR [Java Specification Request] -> como vai funcionar a biblioteca
 
+máquina virtual java (Java Virtual Machine)
+- analogia do tradutor, discurso e dos representantes
+- contrata um tradutor e traduz o discurso para traduzir para as outras linguas
+- compilar codigo fonte para binarios dos diversos sistemas operacionais
+- java compila com bytecode que é interpretado pelas JVMs instaladas nos sistemas operacionais
+
+JVM faz o java ficar lento
+- não, melhora o código Just In Time (JIT)
+- otimiza a execução
+
+
 
 
