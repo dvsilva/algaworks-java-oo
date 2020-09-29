@@ -1,1 +1,10 @@
 revistas sobre java -> java magazine e mundo j
+
+historia do Java
+- 1991 -> dispositivos eletrônicos inteligentes
+- criaram uma linguagem Oak mudou para Java em uma cafeteria
+- sofreu risco de cancelamento
+- 1993 ganha popularidade com a WWW
+- 1995 anuncia java em uma conferência
+- 2009 Sun é comprada pela Oracle
+- atualmente está em 4,5 milhões de dispositivos
