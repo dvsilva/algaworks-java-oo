@@ -1,0 +1,14 @@
+introdução a orientação a objetos
+- paradigma de programação
+- baseado nos conceitos do mundo real 
+- smalltalk - 1960
+- java, vb.net, c#, c++, ruby, python, etc
+- vantagens - produtividade, reuso de código, reduz linhas de código, etc
+- criar programas componentizados
+
+classe e objeto
+- classe descrição/projeto de aluma coisa
+- propriedades e comportamentos
+- objeto - cria o carro a partir do projeto
+- cada objeto é unico
+- um nao vai ser igual ao outro
