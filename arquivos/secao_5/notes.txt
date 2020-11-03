@@ -1,0 +1,31 @@
+introdução a UML
+- origem nas melhores práticas da engenharia
+- comunicação
+- diagramas personalizados
+- documentação / especificação
+
+softwres de modelagem
+https://staruml.io/
+http://argouml.tigris.org/
+
+prints na web
+https://snipboard.io/
+
+objeto this
+- aponta para ele mesmo [objeto]
+- aponta para o objeto em que está inserido
+
+java bean - classe com regras/caracteristicas especiais para metodos, atributos e construtores
+- atributos privados (encapsulados)
+- criar metodos get e set (public) -> padrao getNome e setNome
+	- source / generate getters and setters
+- tem que ter construtor default (já vem por padrão na classe)
+
+static
+- quando atributo da classe - compartilha entre todos os objetos da classe
+final
+- quando utilizada em um atributo seu valor não muda mais
+- quando utilizada em classe diz que a classe não pode ser extendida/especializada
+
+abstract
+- nao da para instanciar objetos de classes abstratas
