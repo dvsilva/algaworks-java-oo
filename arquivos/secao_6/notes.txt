@@ -1,0 +1,33 @@
+coleta de lixo
+- garbage collector -> passa de tempos em tempos observando ojetos elegíveis que não possuem variaveis apontando para ele. isso libera espaço de memoria
+- executa a hora que ele quiser
+- existem vários algoritmos de coleta
+- muito importante em produção
+- você pode configurar o tamanho da memória heap
+
+exceção checada deve colocar throws na assinatura do metodo e tratar com try catch
+regra de negocio deve extender exception e deve ser tratada
+runtimeexception diz mais sobre erros de programação (divisão por zero ..)
+
+string 
+- imutável (ex: cria uma outra string a partir de uma outra)
+- problema relacionado a performance durante concatenação
+
+string builder
+- reaproveita string na concatenação
+- mais rápido
+- sistemas multithread apresenta problemas
+
+string buffer
+- durante acesso concorrente é protegido
+
+calendar
+add considera o calendario dias meses e anos
+roll apenas mexe na propriedade desejada
+
+list aceita repetição e ordena na ordem que é inserido
+hashset nao aceita repetição e não tem ordem definida (não da para ordenar por ordem alfabetica usar list). não da para pegar por indice só iterando
+hashmap composto por chave valor. chave nao pode estar repetida, sobrescreve valor
+
+para exportar jar -> runnable jar
+executar via linha de comando -> java -jar file.jar
