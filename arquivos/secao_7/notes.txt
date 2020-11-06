@@ -1,0 +1,19 @@
+string é imutável string buffer e builder permite manipular e concatenar strings dentro da classe
+maior ganho em performance
+
+StringBuffer sb = new StringBuffer(); // thread-safe - use no contexto de concorrencia
+StringBuilder sb = new StringBuilder(); // nao-thread-safe - mais rapido
+
+configurar parametro encoding para javadoc
+-J-Dfile-encoding=UTF-8
+
+regex -> https://www.regular-expressions.info/
+
+maven -> software para gerenciar projetos
+- gerenciar dependencias
+
+para executar programa java com maven -> maven build / goal: exec:java
+
+jconsole (dentro de java bin) -> monitorar uso da memoria de programa java
+configurar uso de memoria no programa em arguments ->  -Xms100m -Xmx300m
+configurar memoria permanente (carregar classes) -> XX-MaxPermSize=128m

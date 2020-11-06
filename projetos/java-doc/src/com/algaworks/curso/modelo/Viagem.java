@@ -4,7 +4,7 @@ import java.util.Date;
 
 /**
  * 
- * Representa a viagem de um funcionários.
+ * Representa a viagem de um funcionário.
  * 
  * @author Normandes Junior
  *

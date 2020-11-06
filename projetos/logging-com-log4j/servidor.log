@@ -1,0 +1,10 @@
+2020-11-06 09:01:03,249 INFO main com.algaworks.ConfiguracaoBasica - Começando a aplicação.
+2020-11-06 09:01:03,258 INFO main com.algaworks.ConfiguracaoBasica - Finalizando a aplicação
+2020-11-06 09:02:04,773 INFO main com.algaworks.ConfiguracaoBasica - Começando a aplicação.
+2020-11-06 09:02:04,779 INFO main com.algaworks.ConfiguracaoBasica - Finalizando a aplicação
+2020-11-06 09:02:11,779 INFO main com.algaworks.ExemploSalvandoCliente - Iniciando a aplicação
+2020-11-06 09:02:11,779 WARN main com.algaworks.dao.ClienteDAO - Cliente está nulo
+2020-11-06 09:02:11,779 INFO main com.algaworks.ExemploSalvandoCliente - Finalizando a aplicação.
+2020-11-06 09:02:30,704 INFO main com.algaworks.ExemploSalvandoCliente - Iniciando a aplicação
+2020-11-06 09:02:30,709 WARN main com.algaworks.dao.ClienteDAO - Cliente está nulo
+2020-11-06 09:02:30,709 INFO main com.algaworks.ExemploSalvandoCliente - Finalizando a aplicação.
