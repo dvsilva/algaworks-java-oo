@@ -1,0 +1,1 @@
+interface funcional -> interface com apenas um metodo (necessariamente), possibilita criar expressões lambda
